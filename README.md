@@ -2,6 +2,8 @@
 
 I'm glad to meet you.
 
+<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Psilocine/count.svg" /></p>
+
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psilocine&show_icons=true&theme=buefy) -->
 
