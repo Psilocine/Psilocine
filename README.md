@@ -1,4 +1,4 @@
-### Hi, I'm Psilo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Psilo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 ![working](https://camo.githubusercontent.com/3ab5fcbef04b536205e084873f8c609b7ecd2a012a106836d80f1aca95949a25/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f3076777a754677434741464f2f67697068792e676966)
 
